@@ -1,0 +1,9 @@
+com\example\cryptofraud\exception\ResourceNotFoundException.class
+com\example\cryptofraud\model\CryptoData.class
+com\example\cryptofraud\service\CryptoDataServiceImpl.class
+com\example\cryptofraud\exception\GlobalExceptionHandler.class
+com\example\cryptofraud\repository\CryptoDataRepository.class
+com\example\cryptofraud\dto\CryptoDataDto.class
+com\example\cryptofraud\CryptofraudApplication.class
+com\example\cryptofraud\controller\CryptoDataController.class
+com\example\cryptofraud\dto\PaginatedResponse.class
